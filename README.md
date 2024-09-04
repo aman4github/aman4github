@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python with web development.<br>👯 I’m looking to collaborate with people working in the same areas.<br>🤝 I’m looking for help to get more ideas about projects and DSA<br>🌱 I’m currently learning Python with web development and MySQL.<br>💬 Ask me for help if you need<br>⚡ Fun fact I am too confused about whether to choose Spring Boot or Django
+👩🏻‍💻 MCA Fresher.<br>🔭 I’m currently working on Python with web development.<br>👯 I’m looking to collaborate with people working in the same areas.<br>🤝 I’m looking for help to get more ideas about projects and DSA.<br>🌱 I’m currently learning Python with web development and MySQL.<br>💬 Ask me for help if you need it.<br>⚡ Fun fact I am too confused about whether to choose Spring Boot or Django.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=aman4github&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aman4github&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman4github&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aman4github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aman4github&icon=0&color=0)](https://visitcount.itsvg.in)
