@@ -1,3 +1,2 @@
 <h1 align="center">Hi 👋, I'm SK AMAN</h1>
-<h3 align="center">🚀 Turning logic into scalable backend solutions</h3>
-
+<h3 align="center">🚀 Building skills today for the problems of tomorrow.</h3>
