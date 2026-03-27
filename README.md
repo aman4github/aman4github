@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm SK AMAN</h1>
+<h3 align="center">A passionate developer...</h3>
+
 # 💫 About Me:
 ### ⚡ About Me<br>- 🔭 Currently sharpening my skills in **Data Structures & Algorithms** and **Spring Boot**.<br>- 🎓 Focusing on mastering Computer Science fundamentals (DBMS, OS, Computer Networks).<br>- 🏆 Successfully solved both coding challenges in the **TCS NQT (March 2026)**.<br>- 💬 Ask me about **Java, Spring Boot, or MySQL**.
 
